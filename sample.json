@@ -1,0 +1,58 @@
+[
+    {
+      "firstName": "Vikas",
+      "lastName": "Sharma",
+      "batchCode": "207",
+      "rollNumber": "2071",
+      "designation": "Lecturer",
+      "employeeId": "27gh56",
+      "phoneNumber": "9123456784",
+      "email": "vikas.sharma@example.com",
+      "remarks": "excellent"
+    },
+    {
+      "firstName": "Pooja",
+      "lastName": "Mishra",
+      "batchCode": "207",
+      "rollNumber": "2072",
+      "designation": "Associate Professor",
+      "employeeId": "28ij78",
+      "phoneNumber": "9234567895",
+      "email": "pooja.mishra@example.com",
+      "remarks": "good"
+    },
+    {
+      "firstName": "Rajesh",
+      "lastName": "Kumar",
+      "batchCode": "207",
+      "rollNumber": "2073",
+      "designation": "Assistant Professor",
+      "employeeId": "29kl90",
+      "phoneNumber": "9345678906",
+      "email": "rajesh.kumar@example.com",
+      "remarks": "average"
+    },
+    {
+      "firstName": "Neetu",
+      "lastName": "Rana",
+      "batchCode": "207",
+      "rollNumber": "2074",
+      "designation": "Senior Lecturer",
+      "employeeId": "30mn12",
+      "phoneNumber": "9456789017",
+      "email": "neetu.rana@example.com",
+      "remarks": "excellent"
+    },
+    {
+      "firstName": "Karan",
+      "lastName": "Joshi",
+      "batchCode": "207",
+      "rollNumber": "2075",
+      "designation": "Professor",
+      "employeeId": "31op34",
+      "phoneNumber": "9567890128",
+      "email": "karan.joshi@example.com",
+      "remarks": "good"
+    }
+  ]
+  

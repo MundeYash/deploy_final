@@ -1,0 +1,21 @@
+.button-container {
+  display: flex;
+  justify-content: space-between; /* Optional: Adjusts the space between buttons */
+}
+
+.button-container button {
+  margin-right: 10px; /* Adjust the right margin to create space between buttons */
+}
+
+.img-header {
+  border: 1px solid black;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  height: 100px;
+  width: 100%;
+}
+
+.card-padding {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
